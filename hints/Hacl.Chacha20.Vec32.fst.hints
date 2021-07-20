@@ -32,7 +32,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "f028882964979fcb6a3059a6f3e7b78c"
+      "37b15ceacc2ed7d4b74b4e101d593f6b"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_core_32",
@@ -65,7 +65,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "df2bb66844654786b24778472776e028"
+      "c86b10876c3ec845c4e1e766bb51c257"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_init_32",
@@ -98,7 +98,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "5bb1c02cc85b60e9cd223011945e6c45"
+      "4877f965367e8c08beec11fb2394c43a"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_encrypt_32",
@@ -131,7 +131,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "d87e5ba32dd30024db0a71ec545c099d"
+      "cf6f4f54969c8bf80457f988291d0ca4"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_decrypt_32",
@@ -164,7 +164,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "240872a0006760af81b38bb0fd4642f6"
+      "14149a56262b4e4024a1c09b9734f8a6"
     ]
   ]
 ]

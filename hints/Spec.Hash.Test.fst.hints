@@ -15,7 +15,7 @@
         "typing_FStar.UInt8.t"
       ],
       0,
-      "fbf0cd83fe0e2df41b2bbdfb2d3e5bc4"
+      "45a4538a67f2641152fdc8a9123a3d12"
     ],
     [
       "Spec.Hash.Test.__proj__Vec__item__plain",
@@ -28,7 +28,7 @@
         "projection_inverse_Spec.Hash.Test.Vec_a"
       ],
       0,
-      "b12bb016d4defcc4e7cfacb2aa6df12f"
+      "da23b077c4b179c5265e07ae2469c0e8"
     ],
     [
       "Spec.Hash.Test.__proj__Vec__item__hash",
@@ -41,7 +41,7 @@
         "projection_inverse_Spec.Hash.Test.Vec_a"
       ],
       0,
-      "3c9f6cd0b81088ae21a067bdfb77b1c7"
+      "7b87743b4df7b8571fc26f6b8d1f48b5"
     ]
   ]
 ]

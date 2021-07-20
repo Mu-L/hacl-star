@@ -61,7 +61,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "f51091bba2eebbe5754c4a4cd83c16c5"
+      "3aaa64497865eda2600d1b368981eccb"
     ],
     [
       "Spec.Agile.HPKE.size_aead_key",
@@ -103,7 +103,7 @@
         "typing_tok_Spec.Agile.Cipher.CHACHA20@tok"
       ],
       0,
-      "034294377c99a9ed73a39b0e1aae21e9"
+      "70652763308e213e3848bdbaef231a60"
     ],
     [
       "Spec.Agile.HPKE.size_aead_tag",
@@ -158,7 +158,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "445839e140377ee37d7f5c8ec5ee734a"
+      "9866b975db48ca9eec56dd9f7e5bce0d"
     ],
     [
       "Spec.Agile.HPKE.size_dh_public",
@@ -210,7 +210,7 @@
         "typing_tok_Spec.Agile.DH.DH_P256@tok"
       ],
       0,
-      "be7c2a23da2f25cd8332f389ed5e9d07"
+      "74cf821167749ce7ba3cc75a2a4c49e3"
     ],
     [
       "Spec.Agile.HPKE.size_kdf",
@@ -274,7 +274,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "39a2df3eb64655a30236f46f48119cf9"
+      "f9b259c15584382662999d0252b6aa0a"
     ],
     [
       "Spec.Agile.HPKE.max_length",
@@ -327,7 +327,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "6083a42f7d737b63bbf1bca9fa4ba005"
+      "d95947d8cee8d1b6ab83039693c3deb5"
     ],
     [
       "Spec.Agile.HPKE.max_pskID",
@@ -370,7 +370,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "b8f10e0dbd91952a1f6932cb89548693"
+      "4b1816164e7233ea754a7d06f7d7031e"
     ],
     [
       "Spec.Agile.HPKE.max_info",
@@ -413,7 +413,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "09c601503d73e7d20819972c5dbb92a6"
+      "5427dd7f43c00c198413ecf10ba583a1"
     ],
     [
       "Spec.Agile.HPKE.setupBaseI",
@@ -430,7 +430,7 @@
         "typing_Spec.AES.gf8"
       ],
       0,
-      "d0ef767a1c5c786a39e02a66e4dee681"
+      "8f70b16a596938a86fb817d6b92523c8"
     ],
     [
       "Spec.Agile.HPKE.setupBaseR",

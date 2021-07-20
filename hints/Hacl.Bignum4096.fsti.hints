@@ -1,5 +1,5 @@
 [
-  "¿L\u0001¯OÆ˝Ç5∫ ≈ïëùT",
+  "S“S\u0004.˛:Ò°ºVVa\"ç\u001d",
   [
     [
       "Hacl.Bignum4096.n_limbs",
@@ -37,7 +37,7 @@
         "typing_FStar.UInt32.uint_to_t"
       ],
       0,
-      "aae9a1b263c67731a836dede2fa1a6f6"
+      "4ff3c64ba26a77fb2782eaf7f54f05a5"
     ],
     [
       "Hacl.Bignum4096.n_bytes",
@@ -76,7 +76,7 @@
         "typing_Lib.IntTypes.bits", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "b5ffb29992c826c83fd5c721befc0cc5"
+      "d5554de28f53c96f1eb0dc66951e09f1"
     ],
     [
       "Hacl.Bignum4096.uu___0",
@@ -140,7 +140,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "222c99d195657a2705a0ff48d17c4163"
+      "7fbcc2ee86a72ea4f4ed357e85b5e4ee"
     ],
     [
       "Hacl.Bignum4096.uu___1",
@@ -198,7 +198,25 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "1205be9273df6a114a86bd53331d4041"
+      "3016f0398dbdb8c467dd442274caa9b4"
+    ],
+    [
+      "Hacl.Bignum4096.add_mod",
+      1,
+      0,
+      0,
+      [ "@query" ],
+      0,
+      "9f43bda7138a24e017256e41e0b21d20"
+    ],
+    [
+      "Hacl.Bignum4096.sub_mod",
+      1,
+      0,
+      0,
+      [ "@query" ],
+      0,
+      "3895ea863abc8e66078a1918433a255f"
     ],
     [
       "Hacl.Bignum4096.mul",
@@ -220,7 +238,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "b5bb7c749ec1aa263857ddaf073d999f"
+      "f691f3906e39983f4b52ed40f216dee4"
     ],
     [
       "Hacl.Bignum4096.sqr",
@@ -242,7 +260,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "b210de7cf877c5db6a2a7f3102fe270f"
+      "530400659d17a799ff95bc1056350c1a"
     ],
     [
       "Hacl.Bignum4096.bn_to_bytes_be",
@@ -303,7 +321,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "3d0a249e553539e935a74ab6d7743340"
+      "45888b8ea3a0c5adca50cabc6d3f57b9"
     ],
     [
       "Hacl.Bignum4096.bn_to_bytes_le",
@@ -364,7 +382,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "4306d2e5147bd54bfa2c86b64416517d"
+      "49ef2fb5a975028929ebb44076f9ef48"
     ]
   ]
 ]

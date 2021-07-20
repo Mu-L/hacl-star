@@ -8,7 +8,7 @@
       1,
       [ "@query" ],
       0,
-      "4251b4f91e0f09764a3048902704c515"
+      "6653c700f1b5cf12a6bfe72bb66df047"
     ],
     [
       "EverCrypt.Ed25519.verify",
@@ -17,7 +17,7 @@
       1,
       [ "@query" ],
       0,
-      "b4a47081219a4abda91450716d67110b"
+      "ec54ecd11eb262351f2f6fa3d0ba46ef"
     ],
     [
       "EverCrypt.Ed25519.secret_to_public",
@@ -26,7 +26,7 @@
       1,
       [ "@query" ],
       0,
-      "31c970e1b136e8813ed7a07ee2cd5060"
+      "24cb355486b6b22b090ad1981bf892f3"
     ],
     [
       "EverCrypt.Ed25519.expand_keys",
@@ -35,7 +35,7 @@
       1,
       [ "@query" ],
       0,
-      "1cd4eab52ffc14a57a8aeac709eaf7c7"
+      "aeed6456f0a6c9674b9733ca805e1bb8"
     ],
     [
       "EverCrypt.Ed25519.sign_expanded",
@@ -44,7 +44,7 @@
       1,
       [ "@query" ],
       0,
-      "087e8a0dd5e6eea5a38324e227ed6b20"
+      "6d493c5073766f86805e3ffeb78b3bdb"
     ]
   ]
 ]

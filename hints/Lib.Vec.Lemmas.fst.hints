@@ -19,7 +19,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "d6b253deb8a4bba626d40f917c2b6022"
+      "3d18717ad7a1d636767a26625e8061ff"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_vec",
@@ -37,7 +37,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "985702876b5283b64fec581fb920ae4f"
+      "c3c4a057c8d07efac38003ab5ddadeb6"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_vec",
@@ -64,7 +64,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "f446517209e94619a837371b543b11e9"
+      "b084796247f14542475bf0e749da181b"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeati_vec",
@@ -80,7 +80,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "81dc9e216cb633cdfe2ee17d52e8daa3"
+      "8a740177ab403de2ae58dcfaee592d5e"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeati_vec",
@@ -98,7 +98,7 @@
         "token_correspondence_Lib.LoopCombinators.fixed_i"
       ],
       0,
-      "3a6eef2530294e122f8544762fb80fd0"
+      "af75b443ee121cd9087efda18f2ffd5b"
     ],
     [
       "Lib.Vec.Lemmas.len_is_w_n_blocksize",
@@ -112,7 +112,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "52f495964c8e8b406174146cba85d702"
+      "1879e5020b436a698454d0805c298a64"
     ],
     [
       "Lib.Vec.Lemmas.len_is_w_n_blocksize",
@@ -127,7 +127,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "b6e0fb759a354381d09b80478ce54079"
+      "2eb000fd24b103fa48cc3255cbe77fe1"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_multi_vec_equiv_pre",
@@ -146,7 +146,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "c0cf8d56231baa71c3aa6fd702a99362"
+      "4604fe6f08d531916170430926ee6387"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_multi_vec_equiv_pre",
@@ -177,7 +177,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "961531309dbfc271e3a6adc16ac0832b"
+      "b9dd61b4d32ede7a71d78dd17f3c844e"
     ],
     [
       "Lib.Vec.Lemmas.get_block_v",
@@ -191,7 +191,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "c1fc8940400ada3287c3bf67b6e7d397"
+      "673273439a9e8378254ca25d8cb6af3b"
     ],
     [
       "Lib.Vec.Lemmas.get_block_v",
@@ -220,7 +220,7 @@
         "typing_FStar.Seq.Base.length"
       ],
       0,
-      "12359f75f006860a654b91f6283f6271"
+      "18dfea37f5340f803b0bf453bbef1e2e"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_slice_k",
@@ -243,7 +243,7 @@
         "refinement_interpretation_Tm_refine_d8d83307254a8900dd20598654272e42"
       ],
       0,
-      "95300ac20fc1ee0b639af0b595e7a953"
+      "cb3edd4efe1a2de5be44a9443c320eeb"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_slice_k",
@@ -263,7 +263,7 @@
         "refinement_interpretation_Tm_refine_d6b1a92117d4cdff80313427385685c8"
       ],
       0,
-      "3f33a6e32da73f726234951a149fe64a"
+      "89c1383c6586a2eb339ec199eebfc274"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_slice_k",
@@ -298,7 +298,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "b16ced082dc9528712c203377f305af2"
+      "c3dcd6f6b1285423844e85d4629699ed"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_slice",
@@ -330,7 +330,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "c9a7b421ded234acc5c6e3a4d303e85e"
+      "4cd05a2a69f913950c8643285bf2e6a0"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_slice",
@@ -349,7 +349,7 @@
         "refinement_interpretation_Tm_refine_d6b1a92117d4cdff80313427385685c8"
       ],
       0,
-      "1e42059f3667dccdb00fcaa4e56e05cc"
+      "ad39ed2f84e0f1db869d072cc0495651"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_slice",
@@ -375,7 +375,7 @@
         "refinement_interpretation_Tm_refine_d8d83307254a8900dd20598654272e42"
       ],
       0,
-      "cae755feb6aae35d88717693453fa58b"
+      "082f9253430acc0e3683b04c412aef07"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_multi_vec_step",
@@ -403,7 +403,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "e05c1fbfc87c697886b68e58408f7931"
+      "820076a42a8a6e581dca626d174e3c81"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_multi_vec_step",
@@ -422,7 +422,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "dedacaa79236fac65e7fd705396d746d"
+      "2eed770781ac6f8fc02f517a8cf9c530"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_multi_vec_step",
@@ -458,7 +458,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "760b117cae617eb128efd80798d1484c"
+      "75d499ee9177e8a5aa892d2f31a9c7ea"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_blocks_multi_vec",
@@ -484,7 +484,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "89fd1743540973301cd0c7185c9e8444"
+      "ca6e105a5f0200e090e8537ce6a39f3a"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_blocks_multi_vec",
@@ -503,7 +503,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "e54817c012147302b95b5a7e9ebbb8a5"
+      "900724d77477357f583314d71e908412"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_blocks_multi_vec",
@@ -531,7 +531,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "2fd983484af1967b69dd32b7f0c99e21"
+      "9d52c37c8831f508fef458d40a9f2f36"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_vec_equiv_pre",
@@ -549,7 +549,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "564f36d909f5dfe6d09d31093a6af33c"
+      "a8fd7839c8d484f2f846e9aa666963ef"
     ],
     [
       "Lib.Vec.Lemmas.repeat_gen_blocks_vec_equiv_pre",
@@ -577,7 +577,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "211bce0f91a72ce74d6a1efd6107f9af"
+      "88d636a76494f71eda6ebb994fe4b1e2"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_blocks_vec",
@@ -604,7 +604,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "59f2ccf0fd906d127b010fc74934d742"
+      "a80810fa0578ceed77bbb5c666b3dfad"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_blocks_vec",
@@ -624,7 +624,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "34348fc689f4f6195de2464204aba1d1"
+      "907696caada01ad2e23d99cd806c4ce5"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_gen_blocks_vec",
@@ -662,7 +662,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "4111f6c6839f65fe259b800613eff082"
+      "aba4eb1d737385f4b4344d3fa38c45e5"
     ],
     [
       "Lib.Vec.Lemmas.repeat_blocks_multi_vec_equiv_pre",
@@ -676,7 +676,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "359c55c34e463831f11c39abe6e07580"
+      "fa3260eaf126c3f83a2ad72804afc7a2"
     ],
     [
       "Lib.Vec.Lemmas.repeat_blocks_multi_vec_equiv_pre",
@@ -696,7 +696,7 @@
         "refinement_interpretation_Tm_refine_d8d83307254a8900dd20598654272e42"
       ],
       0,
-      "392d9065562bf261128cf5a8a747161d"
+      "9f8baee65a7710d8eccc92cc3652f2df"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_multi_vec_equiv_pre",
@@ -715,7 +715,7 @@
         "typing_FStar.Seq.Base.length"
       ],
       0,
-      "6490538b5910687c67207cfa30cdc56e"
+      "939a0299e8ebbbde4be5adc94e5033c6"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_multi_vec_equiv_pre",
@@ -729,7 +729,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "3c50147840ec6030262687085193116f"
+      "e16368ef1cf43894ec261f5e17713d63"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_multi_vec_equiv_pre",
@@ -764,7 +764,7 @@
         "typing_FStar.Seq.Base.length"
       ],
       0,
-      "c49d3fe41f1b7cdef1e7dbfba969ff32"
+      "bf13d765f0e226786ccef59b44ac6055"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_multi_vec",
@@ -780,7 +780,7 @@
         "refinement_interpretation_Tm_refine_e90c2c89afe31ba2752cabd31cd7f6e7"
       ],
       0,
-      "6956e3061089b2f31165289b929ee352"
+      "85aed3e645a8ea06b49cffcb4e61e914"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_multi_vec",
@@ -796,7 +796,7 @@
         "refinement_interpretation_Tm_refine_e90c2c89afe31ba2752cabd31cd7f6e7"
       ],
       0,
-      "e22bf2ba5e7e21c8ad75135832ac9d2f"
+      "4a2b792e390e11a5f04065cee359a461"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_multi_vec",
@@ -819,7 +819,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "d83fd87678eac2059b74fb0742a159b8"
+      "6bf02ebf1754745fa14d3c81e155d860"
     ],
     [
       "Lib.Vec.Lemmas.repeat_blocks_vec_equiv_pre",
@@ -833,7 +833,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "8ae81eb7a39b2e7da36d0e24fa1a036f"
+      "39cf8971ae844aaf10a428875c523061"
     ],
     [
       "Lib.Vec.Lemmas.repeat_blocks_vec_equiv_pre",
@@ -854,7 +854,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "8b2127d54a64b8e562cd74c20dbf8dbf"
+      "15f21b8fb717e28eaecb1d8e7070db35"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_vec_equiv_pre",
@@ -871,7 +871,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "703e4238a3d7a8fb23b96b10cda1669e"
+      "ff7f5e490fc048e4d2fe5c06bdd8377c"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_vec_equiv_pre",
@@ -885,7 +885,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "8b78e4efb40c20c689111d5a73d9fa96"
+      "052b28f4f763ca08e8185b5c76c45d6f"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_vec_equiv_pre",
@@ -914,7 +914,7 @@
         "token_correspondence_Lib.LoopCombinators.fixed_i"
       ],
       0,
-      "c9b45eb1f9e439f711fc19833099f556"
+      "dd94d48e1cc8093f1504aed59f84a2fb"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_vec",
@@ -930,7 +930,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "606aa78206b4d53ee4bc7b036f038f09"
+      "1fd1bc54dd4dae63fa3fee2574b43025"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_vec",
@@ -944,7 +944,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "f59b7329752b90b69c464578ab142e4f"
+      "6bb4dfbe7c1eb4b64803bb85a128c5e9"
     ],
     [
       "Lib.Vec.Lemmas.lemma_repeat_blocks_vec",
@@ -968,7 +968,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "5809ce37b75f9d15202ccd4521da031d"
+      "674a1f0d6edb9f920ca27eeeea95a4e0"
     ],
     [
       "Lib.Vec.Lemmas.lemma_f_map_ind",
@@ -977,7 +977,7 @@
       0,
       [ "@query" ],
       0,
-      "72b539ff7fdcca4e3eae247b44d5b2d5"
+      "72e73b462e09348810e6dad1fc44241c"
     ],
     [
       "Lib.Vec.Lemmas.lemma_f_map_ind",
@@ -995,7 +995,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "0aa49726a17389a571d62dfb759b18ca"
+      "91f397905411448c51abd4125813cd36"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_multi_vec_equiv_pre_k",
@@ -1009,7 +1009,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "b930474db73d4eb4c196838ca95e9872"
+      "e24d917a7e2206e99514d8d89ddb77d4"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_multi_vec_equiv_pre_k",
@@ -1036,7 +1036,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "38334270f56da03c009febf99c1a0561"
+      "d2acef089ec3d1aeff166638f5bd7b36"
     ],
     [
       "Lib.Vec.Lemmas.normalize_v_map",
@@ -1053,7 +1053,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "d183659409830034e5977d7d31b5b09e"
+      "9a749ac0ac91efdca59f1a828fd1ebe5"
     ],
     [
       "Lib.Vec.Lemmas.normalize_v_map",
@@ -1067,7 +1067,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "2c03ab1af8e429f573c34d96c26f64b5"
+      "2310b945eea66d244781fcaee07d2d74"
     ],
     [
       "Lib.Vec.Lemmas.normalize_v_map",
@@ -1081,7 +1081,7 @@
         "refinement_interpretation_Tm_refine_7e0b9b2dbca36eab00de093c1b701c6d"
       ],
       0,
-      "7e08c3cdd43772405584e14286d94cea"
+      "2bc0cb6079ecfb900c9266b076d439e7"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_multi_vec_equiv_pre",
@@ -1095,7 +1095,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "a6ce45bb94ae06e973306c611dce2f6f"
+      "b4df27f6620b060f2937923c0f7e3996"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_multi_vec_equiv_pre",
@@ -1121,7 +1121,7 @@
         "refinement_interpretation_Tm_refine_f4f040c0afc8e02646bd007fb369c803"
       ],
       0,
-      "716334eb2f5f42d79d1554ec459c5c0d"
+      "d59a32129b2e5ff1c1aef9e3ae465d89"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec_equiv_pre_k",
@@ -1139,7 +1139,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "57d0b26f8c4430bb9ecdd56c1bf080f8"
+      "099f977654ca497722ea69af5a551ac0"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec_equiv_pre_k",
@@ -1157,7 +1157,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "d5a6a37b0ba260e943d00e6b0756fa9d"
+      "32c0102df2685d98ff7cb79cbe2a4b40"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec_equiv_pre_k",
@@ -1167,7 +1167,10 @@
       [
         "@MaxIFuel_assumption", "@query",
         "Lib.Vec.Lemmas_interpretation_Tm_arrow_6ee4cce4172b405aefb288f98b829040",
-        "eq2-interp", "equation_Lib.Sequence.Lemmas.f_shift",
+        "constructor_distinct_Lib.IntTypes.U32", "eq2-interp",
+        "equality_tok_Lib.IntTypes.U32@tok",
+        "equation_Lib.IntTypes.unsigned",
+        "equation_Lib.Sequence.Lemmas.f_shift",
         "equation_Lib.Sequence.Lemmas.get_block_s",
         "equation_Lib.Sequence.Lemmas.repeat_gen_blocks_map_f",
         "equation_Lib.Sequence.length", "equation_Lib.Sequence.lseq",
@@ -1182,7 +1185,7 @@
         "lemma_FStar.Seq.Base.lemma_len_append",
         "primitive_Prims.op_Addition", "primitive_Prims.op_Division",
         "primitive_Prims.op_Modulus", "primitive_Prims.op_Multiply",
-        "projection_inverse_BoxInt_proj_0",
+        "primitive_Prims.op_Subtraction", "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_0d5d3c38400eadf55263b743de2c168b",
         "refinement_interpretation_Tm_refine_25699f4de0c949c68e992e5573c8bf6d",
         "refinement_interpretation_Tm_refine_2de20c066034c13bf76e9c0b94f4806c",
@@ -1194,11 +1197,10 @@
         "refinement_interpretation_Tm_refine_d8d83307254a8900dd20598654272e42",
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29",
         "refinement_interpretation_Tm_refine_f4f040c0afc8e02646bd007fb369c803",
-        "token_correspondence_Lib.Sequence.Lemmas.f_shift",
-        "typing_FStar.Seq.Base.length"
+        "token_correspondence_Lib.Sequence.Lemmas.f_shift"
       ],
       0,
-      "1042250615135c72c6cefd9344cc18c6"
+      "c4eaa41d4712b8d0cd941b22939834e6"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec_equiv_pre",
@@ -1219,7 +1221,7 @@
         "typing_FStar.Seq.Base.length"
       ],
       0,
-      "4f8f780849bd1b248e845601df655e31"
+      "79e549671e62bfee29052b25f7f4e5a0"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec_equiv_pre",
@@ -1237,7 +1239,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "5e3d9804167a93e2ea1c53c7492ee20c"
+      "d428b7d033073c88f37dd2d1064e098b"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec_equiv_pre",
@@ -1279,7 +1281,7 @@
         "typing_Lib.Sequence.Lemmas.map_blocks_multi_acc"
       ],
       0,
-      "27850bad71f92c03c08225cf9198de4b"
+      "f2e6f05edf1fe4559c0a1dc8969a2c99"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec",
@@ -1302,7 +1304,7 @@
         "typing_Lib.Sequence.length"
       ],
       0,
-      "45fd7f8da3d3b022d63eaa44968eef0b"
+      "1b3f0bf907f8610e72351a43980b29a5"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec",
@@ -1316,7 +1318,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "4e77a30c4b213d6c1851bc77664fc66b"
+      "309c7b5d6fde9d0bf7412a7c2059a879"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_multi_vec",
@@ -1343,7 +1345,7 @@
         "typing_FStar.Seq.Base.empty"
       ],
       0,
-      "3ef3e8379f3772cccf750f84299e7f22"
+      "f93251633f25562b6cb41450bd271ba1"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_vec_equiv_pre_k",
@@ -1357,7 +1359,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "01f4fa41f75409bbff6b02ccd58c7680"
+      "812638436d379dda074096b219345997"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_vec_equiv_pre_k",
@@ -1384,7 +1386,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "66b62abb54d84f21f01c0196f86dc405"
+      "5facbcfe18bf4330a5bd9cf3032c8660"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_vec_equiv_pre",
@@ -1398,7 +1400,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "e570eca4fd730d69389f340db662d76b"
+      "a5bb72cf1e6f31b2df0d360445625180"
     ],
     [
       "Lib.Vec.Lemmas.map_blocks_vec_equiv_pre",
@@ -1424,7 +1426,7 @@
         "refinement_interpretation_Tm_refine_f4f040c0afc8e02646bd007fb369c803"
       ],
       0,
-      "128e1039a64b626a0d0cce1285e40161"
+      "c72112629f02d7e08ae002cdac9c60f4"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre_k_aux",
@@ -1446,7 +1448,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "dfab5cfbf8554766aa464f4b24f5b7e5"
+      "9c477f19483b54532b1ddf126f1ada27"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre_k_aux",
@@ -1462,7 +1464,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "5310230a41a7bd55f8c7c123fa0334f6"
+      "cbf9fea6bf5508294a150d044b7f6569"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre_k_aux",
@@ -1502,7 +1504,7 @@
         "token_correspondence_Lib.Sequence.Lemmas.l_shift"
       ],
       0,
-      "94f889d4fcc33ad18af9f234085831b1"
+      "b76f90891833c9085518650b946f8665"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre_k",
@@ -1518,7 +1520,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "d57a16d5214e52ad09e7d0394af6d392"
+      "ced333ea09d7dffdaa6abe7796b419d4"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre_k",
@@ -1534,7 +1536,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "c7c8308935e02b7f6b7f60364b586e0e"
+      "bba00b1cb46e11c35a407bd8cc421039"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre_k",
@@ -1542,9 +1544,12 @@
       0,
       0,
       [
-        "@MaxIFuel_assumption", "@query",
+        "@MaxIFuel_assumption",
+        "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "Prims_pretyping_ae567c2fb75be05905677af440075565",
         "constructor_distinct_Lib.IntTypes.U32",
+        "equality_tok_Lib.IntTypes.U32@tok",
+        "equation_Lib.IntTypes.unsigned",
         "equation_Lib.Sequence.Lemmas.repeat_gen_blocks_map_l",
         "equation_Lib.Sequence.length", "equation_Lib.Sequence.lseq",
         "equation_Lib.Sequence.map_blocks_a", "equation_Lib.Sequence.seq",
@@ -1557,6 +1562,7 @@
         "lemma_FStar.Seq.Base.lemma_eq_refl", "primitive_Prims.op_Addition",
         "primitive_Prims.op_Division", "primitive_Prims.op_Equality",
         "primitive_Prims.op_GreaterThan", "primitive_Prims.op_Multiply",
+        "primitive_Prims.op_Subtraction",
         "projection_inverse_BoxBool_proj_0",
         "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_1e8892e6e831382419ad3b591eb7d098",
@@ -1571,7 +1577,7 @@
         "refinement_interpretation_Tm_refine_f4f040c0afc8e02646bd007fb369c803"
       ],
       0,
-      "73faec6cde247a758d347ec84e69d6db"
+      "353f1e631d425294fe1cc45657006e60"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre",
@@ -1588,7 +1594,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "487456408b8492fa6f28561411992285"
+      "9eaf2b82e748eab4ca819e2a2756775b"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre",
@@ -1604,7 +1610,7 @@
         "refinement_interpretation_Tm_refine_e37a8a81b6e72b6dae52414929365d29"
       ],
       0,
-      "3a309ce9b54d1b054128909967e83cb1"
+      "63f17ee551ed50d8bbd8e809e33a8d6c"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec_equiv_pre",
@@ -1653,7 +1659,7 @@
         "typing_Lib.Sequence.Lemmas.map_blocks_acc"
       ],
       0,
-      "c234299909bbda5d26fad5f727110cfb"
+      "577dc738cb3bc545fc0fd0d51458dc28"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec",
@@ -1677,7 +1683,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "a504d6170eb6ec1b7d16c3786f6d2fdc"
+      "e15b3abe64f1b31a30f77018c191b2d3"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec",
@@ -1691,7 +1697,7 @@
         "refinement_interpretation_Tm_refine_7f9db8cd24b9b12b3cc21528d1bd2871"
       ],
       0,
-      "7e615e9e8bc2edcc1d17445702e2676b"
+      "8a2c06a6b10e7134494ac434d22e10db"
     ],
     [
       "Lib.Vec.Lemmas.lemma_map_blocks_vec",
@@ -1739,7 +1745,7 @@
         "typing_Lib.Sequence.map_blocks"
       ],
       0,
-      "07d95fae8977bbd363d6af786fb027d9"
+      "6d6fdf255c98fc88c0d6121f94611ad1"
     ]
   ]
 ]

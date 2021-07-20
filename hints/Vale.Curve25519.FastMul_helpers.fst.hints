@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "4d48f039a83557eb2026d6e01e83eb1c"
+      "9955bb9028d4fe9e3ec53ff81d22abb6"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_mul_pow2_bound",
@@ -31,7 +31,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "a931d482e648cf5300cefd5bbb00e781"
+      "448427e80ab5aaf35057890e4fe2f704"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_mul_bound64",
@@ -40,7 +40,7 @@
       0,
       [ "@query", "projection_inverse_BoxInt_proj_0" ],
       0,
-      "985c156c5d72bd69937246599290cdd6"
+      "9fb6157433fc2ce786a59fb912f241fb"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_intel_prod_sum_bound",
@@ -53,7 +53,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "63f09d97f8f0f7f1ad5bdf169f1534e1"
+      "b6ed4da3c35b93a83855845e9ae60afa"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_prod_bounds",
@@ -68,7 +68,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "6ace430502d0a774913c84f456b80e28"
+      "e49d14af3c94200d96fe3a7408823e58"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_double_bound",
@@ -84,7 +84,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "0f51863ee54ff01c5bd7a87881f7e983"
+      "48a5ad6eef3b87642b0a5448ef285ad3"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_offset_sum",
@@ -103,7 +103,7 @@
         "true_interp"
       ],
       0,
-      "de18a9c6a125a4e1431e07f94575e43f"
+      "43fe625a1c644cde98a6e81f2055b7df"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_offset_sum",
@@ -120,7 +120,7 @@
         "refinement_interpretation_Tm_refine_542fde145bce9caae9f32defc6d96d90"
       ],
       0,
-      "de26901e7f9caa3b73be294dc02c24ae"
+      "c9a8dc2ec735a8ba36880bd5a61c3cd7"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_partial_sum",
@@ -141,7 +141,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "73808e7490af0d06a36a3a5e5fe7c81d"
+      "0f1d3eaf44f64cd2806549ed6d480a7e"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_partial_sum",
@@ -174,7 +174,7 @@
         "typing_Vale.Def.Types_s.add_wrap"
       ],
       0,
-      "d31b60bec11e42b54d6d0406fc5743b5"
+      "c83d7420f3a47b3d8c4921a486a20789"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_partial_sum_a2b",
@@ -195,7 +195,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "56f275bf2386c34261c158b95ccefb3b"
+      "8cd48fe313b92e84e36d88fc950e9b87"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_partial_sum_a2b",
@@ -227,7 +227,7 @@
         "typing_Vale.Def.Types_s.add_wrap"
       ],
       0,
-      "150b5a3a4ee7b4b95bf05fef84831aed"
+      "cf8520a80235131d32d76faffe3a6937"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_partial_sum_a3b",
@@ -248,7 +248,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "590c8568f989cbf1b31bdabf276a1f5e"
+      "dd9d101bbbf74f7db5f3df597d9cd94a"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_partial_sum_a3b",
@@ -280,7 +280,7 @@
         "typing_Vale.Def.Types_s.add_wrap"
       ],
       0,
-      "cb8afe739c4950465c2e08034e5b03a1"
+      "b5eeb4079c315e93e4148cda306be316"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a1b",
@@ -302,7 +302,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "9ab299f63b999efd7166ce474217e8a8"
+      "47a58faf79075bb0529a4980b2257b40"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a1b",
@@ -326,7 +326,7 @@
         "true_interp"
       ],
       0,
-      "191052d49daedc47e01cf25f97d0f2aa"
+      "30717820d5dc2e1613ff22fb484c8e10"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a2b",
@@ -348,7 +348,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "f59852d602aa4191318e73b60e679e1a"
+      "913b4574e7d13dcde9eb29cdf0978452"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a2b",
@@ -371,7 +371,7 @@
         "true_interp"
       ],
       0,
-      "640c831b50d929bb8f3816df5b0c4b8c"
+      "76bd0ec84ccfe4f4423d2348ef6e7168"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a2b",
@@ -393,7 +393,7 @@
         "refinement_interpretation_Tm_refine_c9bfb8d7f46a2804a17cc2a80463d8c1"
       ],
       0,
-      "184a98f62549bd5025b91fd28ab64367"
+      "13e239d08b76065c4cf6daf03e6f5ad7"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a3b",
@@ -415,7 +415,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "05f5b327d0e396bd05013ae18af2aff3"
+      "18bb94394fe00888c8bc00de01ec301b"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a3b",
@@ -438,7 +438,7 @@
         "true_interp"
       ],
       0,
-      "5c7149674c733484b5ca079293809c5d"
+      "63ed9a05ed574a3fcb6b405b7f430015"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sum_a3b",
@@ -461,7 +461,7 @@
         "refinement_interpretation_Tm_refine_fb08c67bb5be5e6456b9b1ca62f1c388"
       ],
       0,
-      "d80fd73a7d169903282d8754534fd42d"
+      "ee4fb5d103c47550dfe408086eb9b714"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_dbl_pow2_six",
@@ -479,7 +479,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "955eab9e5a27255d03fea96fc280c352"
+      "f9a1460f1f0476bc998e8071d3c8ac39"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sqr",
@@ -496,7 +496,7 @@
         "typing_Vale.Curve25519.Fast_defs.mul_nats"
       ],
       0,
-      "db39fe830103743f79e894c316b1bf50"
+      "b5af81fbd4ccd23fe1fc6328895f60cd"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sqr",
@@ -522,7 +522,7 @@
         "typing_Vale.Curve25519.Fast_defs.pow2_eight"
       ],
       0,
-      "d394359d44e00e2cee440c719e80bdd0"
+      "80c84b91dad504d86af8d0e280040bfa"
     ],
     [
       "Vale.Curve25519.FastMul_helpers.lemma_sqr",
@@ -551,7 +551,7 @@
         "refinement_interpretation_Tm_refine_f56de8ef361ef7c8dccb4af910d76d34"
       ],
       0,
-      "5f553c30002970355f0132eeeb32bf4e"
+      "0fea775378deb6ac7b2aac84ae7358c2"
     ]
   ]
 ]
